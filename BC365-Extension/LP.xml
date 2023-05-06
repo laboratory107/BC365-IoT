@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportedData>
+    <TenantWebServiceCollection>
+        <TenantWebService>
+            <ObjectType>CodeUnit</ObjectType>
+            <ObjectID>50010</ObjectID>
+            <ServiceName>IoTApiTest</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+    </TenantWebServiceCollection>
+</ExportedData>

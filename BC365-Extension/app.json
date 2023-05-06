@@ -1,0 +1,33 @@
+{
+  "id": "d73ca27c-a674-48da-834c-645bf1926ea2",
+  "name": "ALTestLovro2",
+  "publisher": "Lovro2",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "resourceExposurePolicy": {
+   "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "OnPrem"
+}
