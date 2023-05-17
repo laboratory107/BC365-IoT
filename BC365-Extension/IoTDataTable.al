@@ -1,4 +1,4 @@
-table 50011 IoTData
+table 50021 IoTDataTable
 {
     Caption = 'IoT Data Table';
     DataPerCompany = false;
